@@ -1,0 +1,13 @@
+{
+  "useProxy": false,
+  "antiCaptchaKey": "your-antiCaptcha-API-KEY",
+  "twoCaptchaKey": "your-twoCaptcha-API-KEY",
+  "defaultSolver": "gemini or twoCaptcha or antiCaptcha",
+  "pollingInterval": 10,
+  "retryDelay": 10000,
+  "maxRetries": 3,
+  "matchMode": "manual or auto",
+  "fee": 0.01,
+  "maxGames": 10,
+  "geminiApiKey": "your-Gemini-apikey"
+}
