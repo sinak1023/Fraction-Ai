@@ -1,0 +1,24 @@
+{
+  "name": "fractionai-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "FractionAI Battle Bot with UI Dashboard",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "@2captcha/captcha-solver": "^1.3.0",
+    "@antiadmin/anticaptchaofficial": "^1.0.49",
+    "@google/generative-ai": "^0.24.0",
+    "axios": "^1.7.9",
+    "bip39": "^3.1.0",
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.11.0",
+    "ethers": "^6.11.1",
+    "http-proxy-agent": "^7.0.2",
+    "https-proxy-agent": "^7.0.6",
+    "moment-timezone": "^0.5.45",
+    "node-fetch": "^3.3.2"
+  }
+}
