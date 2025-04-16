@@ -54,8 +54,8 @@ Before installing **FractionAI-BOT**, make sure you have:
 #### 📌 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/RPC-Hubs/FractionAI-BOT.git
-cd FractionAI-BOT
+git clone https://github.com/sinak1023/Fraction-Ai.git
+cd Fraction-Ai
 ```
 
 #### 📌 Step 2: Install Dependencies
@@ -167,7 +167,7 @@ npm start
 
 ```powershell
 git clone https://github.com/sinak1023/Fraction-Ai.git
-cd FractionAI-BOT
+cd Fraction-Ai
 ```
 
 - **Option 2 (Download ZIP):**
